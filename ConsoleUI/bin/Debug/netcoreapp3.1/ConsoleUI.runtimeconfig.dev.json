@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ferit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ferit\\.nuget\\packages"
+    ]
+  }
+}
